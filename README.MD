@@ -1,10 +1,6 @@
 # Gated Reccurrent Unit Application in Sentiment Analysis
 Implemention for Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling. Read the paper [here](https://arxiv.org/pdf/1412.3555.pdf).
 
-<p align="center">
-    <img src='https://storage.googleapis.com/protonx-cloud-storage/transformer/protonx-transf.png' width=200 class="center">
-</p>
-
 Compare and evaluate recurrent neural networks (RNN) with different types of recurrent units: 
 - Gated recurrent unit (GRU)
 - Long short-term memory (LSTM)
